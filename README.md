@@ -3,6 +3,8 @@ Integration class with Pipefy Rest API.
 
 ---
 
+## [PIPEFY CLASS](https://github.com/filipecarbonera/Pipefy/blob/main/pipefy_classes.py)
+
 ### BASIC METHODS
 - **__init__** : Constructor of the class.
 - **request** : Method to make requests.
