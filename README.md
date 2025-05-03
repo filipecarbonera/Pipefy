@@ -53,14 +53,14 @@ Integration class with Pipefy Rest API.
 ---
 
 ### Card Methods
-- **cards** : Get cards by pipe identifier.
-- **allCards** : Get cards by pipe identifier.
-- **card** : Get a card by its identifier.
-- **createCard** : Mutation to create a card, in case of success a query is returned.
-- **updateCard** : Mutation to update a card, in case of success a query is returned.
-- **deleteCard** : Mutation to delete a card, in case of success success: true is returned.
-- **moveCardToPhase** : Mutation to move a card to a phase, in case of success a query is returned.
-- **updateCardField** : Mutation to update a card field, in case of success a query is returned.
+- [**cards**](https://github.com/filipecarbonera/Pipefy/blob/991055403d6f750a57ad86ee9a5c7f3a4e93e04d/pipefy_classes.py#L363) : Get cards by pipe identifier.
+- [**allCards**](https://github.com/filipecarbonera/Pipefy/blob/991055403d6f750a57ad86ee9a5c7f3a4e93e04d/pipefy_classes.py#L376) : Get cards by pipe identifier.
+- [**card**](https://github.com/filipecarbonera/Pipefy/blob/991055403d6f750a57ad86ee9a5c7f3a4e93e04d/pipefy_classes.py#L388) : Get a card by its identifier.
+- [**createCard**](https://github.com/filipecarbonera/Pipefy/blob/991055403d6f750a57ad86ee9a5c7f3a4e93e04d/pipefy_classes.py#L399) : Mutation to create a card, in case of success a query is returned.
+- [**updateCard**](https://github.com/filipecarbonera/Pipefy/blob/991055403d6f750a57ad86ee9a5c7f3a4e93e04d/pipefy_classes.py#L420) : Mutation to update a card, in case of success a query is returned.
+- [**deleteCard**](https://github.com/filipecarbonera/Pipefy/blob/991055403d6f750a57ad86ee9a5c7f3a4e93e04d/pipefy_classes.py#L445) : Mutation to delete a card, in case of success success: true is returned.
+- [**moveCardToPhase**](https://github.com/filipecarbonera/Pipefy/blob/991055403d6f750a57ad86ee9a5c7f3a4e93e04d/pipefy_classes.py#L454) : Mutation to move a card to a phase, in case of success a query is returned.
+- [**updateCardField**](https://github.com/filipecarbonera/Pipefy/blob/991055403d6f750a57ad86ee9a5c7f3a4e93e04d/pipefy_classes.py#L473) : Mutation to update a card field, in case of success a query is returned.
 
 ---
 
