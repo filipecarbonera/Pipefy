@@ -65,14 +65,14 @@ Integration class with Pipefy Rest API.
 ---
 
 ### Comment Methods
-- **createComment** : Mutation to create a comment, in case of success a query is returned.
-- **updateComment** : Mutation to update a comment, in case of success a query is returned.
-- **deleteComment** : Mutation to delete a comment, in case of success success: true is returned.
+- [**createComment**](https://github.com/filipecarbonera/Pipefy/blob/991055403d6f750a57ad86ee9a5c7f3a4e93e04d/pipefy_classes.py#L496) : Mutation to create a comment, in case of success a query is returned.
+- [**updateComment**](https://github.com/filipecarbonera/Pipefy/blob/991055403d6f750a57ad86ee9a5c7f3a4e93e04d/pipefy_classes.py#L515) : Mutation to update a comment, in case of success a query is returned.
+- [**deleteComment**](https://github.com/filipecarbonera/Pipefy/blob/991055403d6f750a57ad86ee9a5c7f3a4e93e04d/pipefy_classes.py#L534) : Mutation to delete a comment, in case of success success: true is returned.
 
 ---
 
 ### Role Methods
-- **setRole** : Mutation to set a user's role, in case of success a query is returned.
+- [**setRole**](https://github.com/filipecarbonera/Pipefy/blob/991055403d6f750a57ad86ee9a5c7f3a4e93e04d/pipefy_classes.py#L545) : Mutation to set a user's role, in case of success a query is returned.
 
 ---
 
