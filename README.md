@@ -85,18 +85,18 @@ Integration class with Pipefy Rest API.
 ---
 
 ### Table Methods
-- **tables** : Get tables through table ids.
-- **table** : Get a table through table id.
-- **createTable** : Mutation to create a table, in case of success a query is returned.
-- **updateTable** : Mutation to update a table, in case of success a query is returned.
-- **deleteTable** : Mutation to delete a table, in case of success a query with the field success is returned.
-- **createTableField** : Mutation to create a table field, in case of success a query is returned.
-- **updateTableField** : Mutation to update a table field, in case of success a query is returned.
-- **setTableFieldOrder** : Mutation to set a table field order, in case of success a query with the field success is returned.
-- **deleteTableField** : Mutation to delete a table field, in case of success a query with the field success is returned.
-- **table_records** : Get table records with pagination through table id.
-- **table_record** : Get table record through table record id.
-- **createTableRecord** : Mutation to create a table record, in case of success a query is returned.
-- **updateTableRecord** : Mutation to update a table record, in case of success a query is returned.
-- **setTableRecordFieldValue** : Mutation to set a table record field value, in case of success a query with the field success is returned.
-- **deleteTableRecord** : Mutation to delete a table record, in case of success a query with the field success is returned.
+- [**tables**](https://github.com/filipecarbonera/Pipefy/blob/991055403d6f750a57ad86ee9a5c7f3a4e93e04d/pipefy_classes.py#L660) : Get tables through table ids.
+- [**table**](https://github.com/filipecarbonera/Pipefy/blob/991055403d6f750a57ad86ee9a5c7f3a4e93e04d/pipefy_classes.py#L669) : Get a table through table id.
+- [**createTable**](https://github.com/filipecarbonera/Pipefy/blob/991055403d6f750a57ad86ee9a5c7f3a4e93e04d/pipefy_classes.py#L681) : Mutation to create a table, in case of success a query is returned.
+- [**updateTable**](https://github.com/filipecarbonera/Pipefy/blob/991055403d6f750a57ad86ee9a5c7f3a4e93e04d/pipefy_classes.py#L706) : Mutation to update a table, in case of success a query is returned.
+- [**deleteTable**](https://github.com/filipecarbonera/Pipefy/blob/991055403d6f750a57ad86ee9a5c7f3a4e93e04d/pipefy_classes.py#L742) : Mutation to delete a table, in case of success a query with the field success is returned.
+- [**createTableField**](https://github.com/filipecarbonera/Pipefy/blob/991055403d6f750a57ad86ee9a5c7f3a4e93e04d/pipefy_classes.py#L751) : Mutation to create a table field, in case of success a query is returned.
+- [**updateTableField**](https://github.com/filipecarbonera/Pipefy/blob/991055403d6f750a57ad86ee9a5c7f3a4e93e04d/pipefy_classes.py#L785) : Mutation to update a table field, in case of success a query is returned.
+- [**setTableFieldOrder**](https://github.com/filipecarbonera/Pipefy/blob/991055403d6f750a57ad86ee9a5c7f3a4e93e04d/pipefy_classes.py#L819) : Mutation to set a table field order, in case of success a query with the field success is returned.
+- [**deleteTableField**](https://github.com/filipecarbonera/Pipefy/blob/991055403d6f750a57ad86ee9a5c7f3a4e93e04d/pipefy_classes.py#L838) : Mutation to delete a table field, in case of success a query with the field success is returned.
+- [**table_records**](https://github.com/filipecarbonera/Pipefy/blob/991055403d6f750a57ad86ee9a5c7f3a4e93e04d/pipefy_classes.py#L848) : Get table records with pagination through table id.
+- [**table_record**](https://github.com/filipecarbonera/Pipefy/blob/991055403d6f750a57ad86ee9a5c7f3a4e93e04d/pipefy_classes.py#L859) : Get table record through table record id.
+- [**createTableRecord**](https://github.com/filipecarbonera/Pipefy/blob/991055403d6f750a57ad86ee9a5c7f3a4e93e04d/pipefy_classes.py#L871) : Mutation to create a table record, in case of success a query is returned.
+- [**updateTableRecord**](https://github.com/filipecarbonera/Pipefy/blob/991055403d6f750a57ad86ee9a5c7f3a4e93e04d/pipefy_classes.py#L894) : Mutation to update a table record, in case of success a query is returned.
+- [**setTableRecordFieldValue**](https://github.com/filipecarbonera/Pipefy/blob/991055403d6f750a57ad86ee9a5c7f3a4e93e04d/pipefy_classes.py#L915) : Mutation to set a table record field value, in case of success a query with the field success is returned.
+- [**deleteTableRecord**](https://github.com/filipecarbonera/Pipefy/blob/991055403d6f750a57ad86ee9a5c7f3a4e93e04d/pipefy_classes.py#L936) : Mutation to delete a table record, in case of success a query with the field success is returned.
