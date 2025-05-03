@@ -21,12 +21,12 @@ Integration class with Pipefy Rest API.
 ---
 
 ### Pipe Methods
-- **pipes** : Get pipes by their identifiers.
-- **pipe** : Get a pipe by its identifier.
-- **clonePipes** : Mutation to clone a pipe, in case of success a query is returned.
-- **createPipe** : Mutation to create a pipe, in case of success a query is returned.
-- **updatePipe** : Mutation to update a pipe, in case of success a query is returned.
-- **deletePipe** : Mutation to delete a pipe, in case of success success: true is returned.
+- [**pipes**](https://github.com/filipecarbonera/Pipefy/blob/991055403d6f750a57ad86ee9a5c7f3a4e93e04d/pipefy_classes.py#L49) : Get pipes by their identifiers.
+- [**pipe**](https://github.com/filipecarbonera/Pipefy/blob/991055403d6f750a57ad86ee9a5c7f3a4e93e04d/pipefy_classes.py#L61) : Get a pipe by its identifier.
+- [**clonePipes**](https://github.com/filipecarbonera/Pipefy/blob/991055403d6f750a57ad86ee9a5c7f3a4e93e04d/pipefy_classes.py#L73) : Mutation to clone a pipe, in case of success a query is returned.
+- [**createPipe**](https://github.com/filipecarbonera/Pipefy/blob/991055403d6f750a57ad86ee9a5c7f3a4e93e04d/pipefy_classes.py#L85) : Mutation to create a pipe, in case of success a query is returned.
+- [**updatePipe**](https://github.com/filipecarbonera/Pipefy/blob/991055403d6f750a57ad86ee9a5c7f3a4e93e04d/pipefy_classes.py#L116) : Mutation to update a pipe, in case of success a query is returned.
+- [**deletePipe**](https://github.com/filipecarbonera/Pipefy/blob/991055403d6f750a57ad86ee9a5c7f3a4e93e04d/pipefy_classes.py#L151) : Mutation to delete a pipe, in case of success success: true is returned.
 
 ---
 
