@@ -31,10 +31,10 @@ Integration class with Pipefy Rest API.
 ---
 
 ### Phase Methods
-- **phase** : Get a phase by its identifier.
-- **createPhase** : Mutation to create a phase, in case of success a query is returned.
-- **updatePhase** : Mutation to update a phase, in case of success a query is returned.
-- **deletePhase** : Mutation to delete a phase of a pipe, in case of success success: true is returned.
+- [**phase**](https://github.com/filipecarbonera/Pipefy/blob/991055403d6f750a57ad86ee9a5c7f3a4e93e04d/pipefy_classes.py#L163) : Get a phase by its identifier.
+- [**createPhase**](https://github.com/filipecarbonera/Pipefy/blob/991055403d6f750a57ad86ee9a5c7f3a4e93e04d/pipefy_classes.py#L173) : Mutation to create a phase, in case of success a query is returned.
+- [**updatePhase**](https://github.com/filipecarbonera/Pipefy/blob/991055403d6f750a57ad86ee9a5c7f3a4e93e04d/pipefy_classes.py#L202) : Mutation to update a phase, in case of success a query is returned.
+- [**deletePhase**](https://github.com/filipecarbonera/Pipefy/blob/991055403d6f750a57ad86ee9a5c7f3a4e93e04d/pipefy_classes.py#L229) : Mutation to delete a phase of a pipe, in case of success success: true is returned.
 
 ---
 
