@@ -3,6 +3,11 @@ Integration class with Pipefy Rest API.
 
 ---
 
+### **Use Exemples**
+
+
+---
+
 ## [PIPEFY CLASS](https://github.com/filipecarbonera/Pipefy/blob/main/pipefy_classes.py)
 
 ### BASIC METHODS
