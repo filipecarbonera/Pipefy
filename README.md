@@ -40,7 +40,7 @@ Integration class with Pipefy Rest API.
 
 ### Field Methods
 - [**createPhaseField**](https://github.com/filipecarbonera/Pipefy/blob/991055403d6f750a57ad86ee9a5c7f3a4e93e04d/pipefy_classes.py#L240) : Mutation to create a phase field, in case of success a query is returned.
-- p**updatePhaseField**](https://github.com/filipecarbonera/Pipefy/blob/991055403d6f750a57ad86ee9a5c7f3a4e93e04d/pipefy_classes.py#L270) : Mutation to update a phase field, in case of success a query is returned.
+- [**updatePhaseField**](https://github.com/filipecarbonera/Pipefy/blob/991055403d6f750a57ad86ee9a5c7f3a4e93e04d/pipefy_classes.py#L270) : Mutation to update a phase field, in case of success a query is returned.
 - [**deletePhaseField**](https://github.com/filipecarbonera/Pipefy/blob/991055403d6f750a57ad86ee9a5c7f3a4e93e04d/pipefy_classes.py#L296) : Mutation to delete a phase field, in case of success success: true is returned.
 
 ---
