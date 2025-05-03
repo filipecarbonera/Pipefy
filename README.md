@@ -4,7 +4,9 @@ Integration class with Pipefy Rest API.
 ---
 
 ### **Common Use Cases**
-
+[Create card]()
+[Move cards]()
+[Update cards]()
 
 ---
 
