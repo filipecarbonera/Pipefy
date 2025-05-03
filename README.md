@@ -77,10 +77,10 @@ Integration class with Pipefy Rest API.
 ---
 
 ### Pipe Relation Methods
-- **pipe_relations** : Get pipe relations by their identifiers.
-- **createPipeRelation** : Mutation to create a pipe relation between two pipes, in case of success a query is returned.
-- **updatePipeRelation** : Mutation to update a pipe relation, in case of success a query is returned.
-- **deletePipeRelation** : Mutation to delete a pipe relation, in case of success success: true is returned.
+- [**pipe_relations**](https://github.com/filipecarbonera/Pipefy/blob/991055403d6f750a57ad86ee9a5c7f3a4e93e04d/pipefy_classes.py#L566) : Get pipe relations by their identifiers.
+- [**createPipeRelation**](https://github.com/filipecarbonera/Pipefy/blob/991055403d6f750a57ad86ee9a5c7f3a4e93e04d/pipefy_classes.py#L577) : Mutation to create a pipe relation between two pipes, in case of success a query is returned.
+- [**updatePipeRelation**](https://github.com/filipecarbonera/Pipefy/blob/991055403d6f750a57ad86ee9a5c7f3a4e93e04d/pipefy_classes.py#L614) : Mutation to update a pipe relation, in case of success a query is returned.
+- [**deletePipeRelation**](https://github.com/filipecarbonera/Pipefy/blob/991055403d6f750a57ad86ee9a5c7f3a4e93e04d/pipefy_classes.py#L649) : Mutation to delete a pipe relation, in case of success success: true is returned.
 
 ---
 
