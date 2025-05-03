@@ -3,7 +3,7 @@ Integration class with Pipefy Rest API.
 
 ---
 
-### BASICS
+### BASIC METHODS
 - **__init__** : Constructor of the class.
 - **request** : Method to make requests.
 - **__prepare_json_dict** : Method to prepare a JSON dictionary.
@@ -11,7 +11,7 @@ Integration class with Pipefy Rest API.
 
 ---
 
-### PIPE CLASSES
+### PIPE METHODS
 - **pipes** : Get pipes by their identifiers.
 - **pipe** : Get a pipe by its identifier.
 - **clonePipes** : Mutation to clone a pipe, in case of success a query is returned.
@@ -21,7 +21,7 @@ Integration class with Pipefy Rest API.
 
 ---
 
-### PHASE CLASSES
+### PHASE METHODS
 - **phase** : Get a phase by its identifier.
 - **createPhase** : Mutation to create a phase, in case of success a query is returned.
 - **updatePhase** : Mutation to update a phase, in case of success a query is returned.
@@ -29,21 +29,21 @@ Integration class with Pipefy Rest API.
 
 ---
 
-### FIELD CLASSES
+### FIELD METHODS
 - **createPhaseField** : Mutation to create a phase field, in case of success a query is returned.
 - **updatePhaseField** : Mutation to update a phase field, in case of success a query is returned.
 - **deletePhaseField** : Mutation to delete a phase field, in case of success success: true is returned.
 
 ---
 
-### LABEL CLASSES
+### LABEL METHODS
 - **createLabel** : Mutation to create a label, in case of success a query is returned.
 - **updateLabel** : Mutation to update a label, in case of success a query is returned.
 - **deleteLabel** : Mutation to delete a label, in case of success success: true is returned.
 
 ---
 
-### CARD CLASSES
+### CARD METHODS
 - **cards** : Get cards by pipe identifier.
 - **allCards** : Get cards by pipe identifier.
 - **card** : Get a card by its identifier.
@@ -55,19 +55,19 @@ Integration class with Pipefy Rest API.
 
 ---
 
-### COMMENT CLASSES
+### COMMENT METHODS
 - **createComment** : Mutation to create a comment, in case of success a query is returned.
 - **updateComment** : Mutation to update a comment, in case of success a query is returned.
 - **deleteComment** : Mutation to delete a comment, in case of success success: true is returned.
 
 ---
 
-### ROLE CLASSES
+### ROLE METHODS
 - **setRole** : Mutation to set a user's role, in case of success a query is returned.
 
 ---
 
-### PIPE RELATION CLASSES
+### PIPE RELATION METHODS
 - **pipe_relations** : Get pipe relations by their identifiers.
 - **createPipeRelation** : Mutation to create a pipe relation between two pipes, in case of success a query is returned.
 - **updatePipeRelation** : Mutation to update a pipe relation, in case of success a query is returned.
@@ -75,7 +75,7 @@ Integration class with Pipefy Rest API.
 
 ---
 
-### TABLE CLASSES
+### TABLE METHODS
 - **tables** : Get tables through table ids.
 - **table** : Get a table through table id.
 - **createTable** : Mutation to create a table, in case of success a query is returned.
