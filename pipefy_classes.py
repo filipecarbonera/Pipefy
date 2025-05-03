@@ -235,7 +235,7 @@ class Pipefy(object):
         }
         return self.request(query, headers).get('data', {}).get('deletePhase', {})
 
-"""FIEL CLASSES"""
+"""FIELD CLASSES"""
 
     def createPhaseField(self, phase_id, type, label, options, description, required, editable,
                             response_fields=None, headers={}):
