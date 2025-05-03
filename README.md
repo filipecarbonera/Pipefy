@@ -46,9 +46,9 @@ Integration class with Pipefy Rest API.
 ---
 
 ### Label Methods
-- **createLabel** : Mutation to create a label, in case of success a query is returned.
-- **updateLabel** : Mutation to update a label, in case of success a query is returned.
-- **deleteLabel** : Mutation to delete a label, in case of success success: true is returned.
+- [**createLabel**](https://github.com/filipecarbonera/Pipefy/blob/991055403d6f750a57ad86ee9a5c7f3a4e93e04d/pipefy_classes.py#L308) : Mutation to create a label, in case of success a query is returned.
+- [**updateLabel**](https://github.com/filipecarbonera/Pipefy/blob/991055403d6f750a57ad86ee9a5c7f3a4e93e04d/pipefy_classes.py#L330) : Mutation to update a label, in case of success a query is returned.
+- [**deleteLabel**](https://github.com/filipecarbonera/Pipefy/blob/991055403d6f750a57ad86ee9a5c7f3a4e93e04d/pipefy_classes.py#L351) : Mutation to delete a label, in case of success success: true is returned.
 
 ---
 
