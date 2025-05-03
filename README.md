@@ -3,7 +3,7 @@ Integration class with Pipefy Rest API.
 
 ---
 
-### **Use Exemples**
+### **Common Use Cases**
 
 
 ---
