@@ -4,13 +4,13 @@ Integration class with Pipefy Rest API.
 ---
 
 ### **Common Use Cases**
-[Create card]()
-[Move cards]()
-[Update cards]()
+[Create card](https://github.com/filipecarbonera/Pipefy/blob/main/create_card.py)
+[Move cards](https://github.com/filipecarbonera/Pipefy/blob/main/move_cards.py)
+[Update cards](https://github.com/filipecarbonera/Pipefy/blob/main/update_cards.py)
 
 ---
 
-## [PIPEFY CLASS](https://github.com/filipecarbonera/Pipefy/blob/main/pipefy_classes.py)
+## [Pipefy Class](https://github.com/filipecarbonera/Pipefy/blob/main/pipefy_classes.py)
 
 ### BASIC METHODS
 - **__init__** : Constructor of the class.
